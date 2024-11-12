@@ -8,7 +8,8 @@ public class Anagrams {
 	
 	public static void main(String args[]) {
 		//System.out.println(anagrams("kkkk"));
-		System.out.println(anagrams("ifailuhkqq"));
+		System.out.println("asdfadsfasdfasd".hashCode() & 4);
+		//System.out.println(anagrams("ifailuhkqq"));
 	}
 	
 	static int anagrams(String s) {

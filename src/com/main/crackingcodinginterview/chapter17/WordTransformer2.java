@@ -1,12 +1,5 @@
 package com.main.crackingcodinginterview.chapter17;
 
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
-
-import com.sun.prism.impl.Disposer.Target;
-
 public class WordTransformer2 {
 /*
  * 	Word Transformer: Given two words of equal length that are in a dictionary, write a method to
@@ -17,6 +10,8 @@ public class WordTransformer2 {
 	Output: DAMP -> LAMP -> LIMP -> LIME -> LIKE
 	Hints: #506, #535, #556, #580, #598, #618, #738
  */
+
+	/*
 	public static void main(String[] args) {
 		Set<String> dic = new HashSet<>();
 		dic.add("DAMP");
@@ -74,5 +69,5 @@ public class WordTransformer2 {
 		}
 		
 	}
-
+*/
 }
